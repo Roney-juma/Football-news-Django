@@ -18,6 +18,7 @@
                     </p>
                     <p class="lead text-muted font-weight-bold">{{article.publishedAt}}</p>
                     <p class="card-text text-dark ">{{article.description | truncatechars:100}}</p>
+                    <p class="card-text text-dark ">{{article.content | truncatechars:100}}</p>
                     <a href="{{article.url}}" class="btn btn-danger" target="_blank">More Info &#x2799;</a>
                 </div>
             </div>
