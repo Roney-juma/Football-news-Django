@@ -5,6 +5,8 @@
 ## Description
 This is my final django project that i did as my capstone work. It is a project that uses the free API to give and update football fans with the latest football news from sky sports
 *****
+## Design
+![alt text](https://github.com/Roney-juma/NoteBook-Flask/blob/master/app/static/images/Design.png)
 *****
 ### Prerequisites
 * Python 3
